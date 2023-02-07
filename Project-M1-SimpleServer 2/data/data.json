@@ -1,0 +1,57 @@
+[
+  {
+    "Id": 1,
+    "customerName": "John Doe",
+    "phoneNumber": "555-555-5555",
+    "address": "123 Main St, Anytown, CA 12345",
+    "loanAmount": 10000,
+    "interest": 0.05,
+    "loanTermYears": 5,
+    "loanType": "Personal",
+    "description": "Loan for home improvement project"
+  },
+  {
+    "Id": 2,
+    "customerName": "Jane Smith",
+    "phoneNumber": "555-555-5556",
+    "address": "456 Elm St, Anytown, CA 12345",
+    "loanAmount": 20000,
+    "interest": 0.06,
+    "loanTermYears": 7,
+    "loanType": "Business",
+    "description": "Loan for small business expansion"
+  },
+  {
+    "Id": 3,
+    "customerName": "Bob Johnson",
+    "phoneNumber": "555-555-5557",
+    "address": "789 Oak St, Anytown, CA 12345",
+    "loanAmount": 15000,
+    "interest": 0.05,
+    "loanTermYears": 4,
+    "loanType": "Personal",
+    "description": "Loan for car purchase"
+  },
+  {
+    "Id": 4,
+    "customerName": "Alice Lee",
+    "phoneNumber": "555-555-5558",
+    "address": "246 Pine St, Anytown, CA 12345",
+    "loanAmount": 12000,
+    "interest": 0.04,
+    "loanTermYears": 3,
+    "loanType": "Business",
+    "description": "Loan for equipment purchase"
+  },
+  {
+    "Id": 5,
+    "customerName": "Tom Davis",
+    "phoneNumber": "555-555-5559",
+    "address": "369 Maple St, Anytown, CA 12345",
+    "loanAmount": 9000,
+    "interest": 0.06,
+    "loanTermYears": 5,
+    "loanType": "Personal",
+    "description": "Loan for home renovation"
+  }
+]

@@ -1,6 +1,6 @@
 [
   {
-    "Id": 1,
+    "Id": 0,
     "customerName": "John Doe",
     "phoneNumber": "555-555-5555",
     "address": "123 Main St, Anytown, CA 12345",
@@ -11,7 +11,7 @@
     "description": "Loan for home improvement project"
   },
   {
-    "Id": 2,
+    "Id": 1,
     "customerName": "Jane Smith",
     "phoneNumber": "555-555-5556",
     "address": "456 Elm St, Anytown, CA 12345",
@@ -22,7 +22,7 @@
     "description": "Loan for small business expansion"
   },
   {
-    "Id": 3,
+    "Id": 2,
     "customerName": "Bob Johnson",
     "phoneNumber": "555-555-5557",
     "address": "789 Oak St, Anytown, CA 12345",
@@ -33,7 +33,7 @@
     "description": "Loan for car purchase"
   },
   {
-    "Id": 4,
+    "Id": 3,
     "customerName": "Alice Lee",
     "phoneNumber": "555-555-5558",
     "address": "246 Pine St, Anytown, CA 12345",
@@ -44,7 +44,7 @@
     "description": "Loan for equipment purchase"
   },
   {
-    "Id": 5,
+    "Id": 4,
     "customerName": "Tom Davis",
     "phoneNumber": "555-555-5559",
     "address": "369 Maple St, Anytown, CA 12345",
